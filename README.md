@@ -31,8 +31,8 @@ I had already built so many Websites with the mentioned skill.
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
-- [💬 skypeID](skype:live:.cid.2f68f61b0b828264)  skype:live:.cid.2f68f61b0b828264
-- [📞 TG](https://t.me/pdev217)
+- [💬 skypeID](Skype: live:.cid.506747afc10df156)  Skype: live:.cid.506747afc10df156
+- [📞 TG](https://t.me/luckystar91121)
 - [📝 Email](mailto:dreamwinner1437@gmail.com)
 
 **Languages and Tools:**
