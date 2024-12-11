@@ -3,17 +3,17 @@
   <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-  I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+I'm a software engineer, with good experience in various fields, such as web and mobile, desktop.
 
-And, I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+And, I'm also familiar with Blockchain | DApp | Smart Contract | Web3.js |
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+My major skills are web (general and also blockchain-based) and mobile app development.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
+I have been developing sites using React, Next.js, Nuxt, Angular, Laravel, WordPress, and Python/Django, ASP & JSP, and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+Especially, I have rich experience with the latest JavaScript frameworks such as Next, Nuxt, Angular.
 
-I had already built so many Websites with the mentioned skill.
+I have worked on many projects and built many websites using the technologies already mentioned.
 
 ## My Skill Set  
 <br />
