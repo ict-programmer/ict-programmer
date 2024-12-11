@@ -13,7 +13,7 @@ I have been developing sites using React, Next.js, Nuxt, Angular, Laravel, WordP
 
 Especially, I have rich experience with the latest JavaScript frameworks such as Next, Nuxt, Angular.
 
-I have worked on many projects and built many websites using the technologies already mentioned.
+I have worked on many projects with small and medium-sized teams and built many websites using the stack already mentioned.
 
 ## My Skill Set  
 <br />
