@@ -60,7 +60,7 @@ I have worked on many projects with small and medium-sized teams and built many 
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- [📞 TG](https://t.me/sm_software_engineer)
+- [📞 TG](https://t.me/sm_ictengineer)
 - [📝 Email](mailto:sm.ict.engineer@gmail.com)
 
 
