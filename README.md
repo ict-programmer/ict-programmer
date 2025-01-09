@@ -3,17 +3,19 @@
   <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-I'm a software engineer, with good experience in various fields, such as web and mobile, desktop.
+I am a passionate full-stack web and blockchain developer with over 9 years of experience creating high-performance, clean, and scalable web applications that solve real-world problems.
 
-And, I'm also familiar with Blockchain | DApp | Smart Contract | Web3.js |
+Specializing in technologies such as React, Next.js, Node.js, Django, Laravel, Solidity, and more, and have been providing customized solutions for solo founders, startups, digital agencies, and established companies worldwide.
 
-My major skills are web (general and also blockchain-based) and mobile app development.
+With a solid foundation in computer science and extensive experience in both front-end and back-end development, I excel at building everything from small business websites to complex, custom applications.
 
-I have been developing sites using React, Next.js, Nuxt, Angular, Laravel, WordPress, and Python/Django, ASP & JSP, and much more.
+I take pride in crafting seamless, engaging user experiences and leveraging technology to make life better. 
 
-Especially, I have rich experience with the latest JavaScript frameworks such as Next, Nuxt, Angular.
+Driven by a commitment to continuous learning and professional growth, I am eager to embrace opportunities that allow me to gain global experience and contribute to a forward-thinking company.
 
-I have worked on many projects with small and medium-sized teams and built many websites using the stack already mentioned.
+I’m currently seeking a new challenge in a global company where I can further develop my skills, contribute my expertise, and thrive in an environment that fosters both individual and team success.
+
+If you're looking for a reliable, solution-driven, and cost-effective full-stack developer with a focus on quality, I'd love to chat about how I can help bring your project or business to life.
 
 ## My Skill Set  
 <br />
