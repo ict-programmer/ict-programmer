@@ -62,8 +62,8 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- [📞 TG](https://t.me/sm_ictengineer)
-- [📝 Email](mailto:sm.ict.engineer@gmail.com)
+<!-- [📞 TG](https://t.me) -->
+<!-- [📝 Email](mailto:) -->
 
 
 
