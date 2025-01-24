@@ -3,7 +3,7 @@
   <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
-I am a passionate full-stack web and blockchain developer with over 9 years of experience creating high-performance, clean, and scalable web applications that solve real-world problems.
+I am a passionate full-stack web and blockchain developer with over 7 years of experience creating high-performance, clean, and scalable web applications that solve real-world problems.
 
 Specializing in technologies such as React, Next.js, Node.js, Django, Laravel, Solidity, and more, and have been providing customized solutions for solo founders, startups, digital agencies, and established companies worldwide.
 
