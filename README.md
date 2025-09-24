@@ -22,7 +22,7 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 ## My Skill Set  
 <br />
 
-**🛠️ Languages & Tools:**
+**🛠️ Languages & Tools**
 <!-- 📝 Languages & Tools -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -49,7 +49,7 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 
 <br />
 
-💗 **My Favorites Techs:**
+💗 **My Favorites Techs**
 <!-- 📝 Languages -->
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
