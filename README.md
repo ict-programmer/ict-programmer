@@ -91,14 +91,15 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 <!-- 💻 Other Tools -->
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="margin-top:100!important;"/>
-</div>
-<br />
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>Connect with me
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+</h2>
 
-<!-- [📞 TG](https://t.me) -->
-<!-- [📝 Email](mailto:) -->
+<br><br>
 
-
+<p align="right">
+  <img alt="GIF"
+       src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"
+       width="500" height="320">
+</p>
 
