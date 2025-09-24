@@ -55,7 +55,8 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=white&color=3bac3a)
+
 
 <!-- 🏗 Frameworks / Platforms -->
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
@@ -68,12 +69,17 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=3bac3a)
 
-<!-- 🔑 Token Standards -->
+<!-- 📱 Mobile -->
+![](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Mobile-React%20Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Mobile-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+
+<!-- 🔑 Token Standards --><!-- 🌐 Blockchain Networks -->
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logoColor=white&color=3bac3a)
-
-<!-- 🌐 Blockchain Networks -->
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
