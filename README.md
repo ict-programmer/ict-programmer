@@ -90,10 +90,8 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 
 <!-- 💻 Other Tools -->
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-<br />
-<br />
-<br />
- <div>
+
+<div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
 <br />
