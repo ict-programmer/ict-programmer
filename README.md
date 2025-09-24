@@ -74,10 +74,10 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 ![](https://img.shields.io/badge/Language-Solana-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logoColor=white&color=3bac3a)
-<!-- 🌐 Blockchain Networks -->
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logoColor=white&color=3bac3a)<!-- 🌐 Blockchain Networks -->
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 
 <!-- ⚙️ DevOps / CI/CD -->
 ![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
