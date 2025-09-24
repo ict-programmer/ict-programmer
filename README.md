@@ -95,7 +95,7 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 </h2>
 
-<br><br>
+<br>
 
 <p align="right">
   <img alt="GIF"
