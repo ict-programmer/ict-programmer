@@ -49,9 +49,6 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 <br />
 
 💗 **My Favorites Techs:**
-
-
-
 <!-- 📝 Languages -->
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
