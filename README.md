@@ -16,6 +16,8 @@ Driven by a commitment to continuous learning and professional growth, I am eage
 I’m currently seeking a new challenge in a global company where I can further develop my skills, contribute my expertise, and thrive in an environment that fosters both individual and team success.
 
 If you're looking for a reliable, solution-driven, and cost-effective full-stack developer with a focus on quality, I'd love to chat about how I can help bring your project or business to life.
+<br />
+<br />
 
 ## My Skill Set  
 <br />
@@ -29,21 +31,17 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/symfony/symfony.png?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/codeigniter/codeigniter?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/codeigniter/codeigniter.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/django/django?raw=true"></code>
-
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/django/django.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/aws/aws?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/aws/aws.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/azure/azure.png"></code>
 
