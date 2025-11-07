@@ -108,18 +108,6 @@ If you're looking for a reliable, solution-driven, and cost-effective full-stack
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -142,11 +130,7 @@ Feel free to reach out! 💬
 <div align="center">
   
 ### 💻 **Thanks for visiting my profile!** 
-  
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" alt="Coding Animation">
-
-**⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
 
 </div>
